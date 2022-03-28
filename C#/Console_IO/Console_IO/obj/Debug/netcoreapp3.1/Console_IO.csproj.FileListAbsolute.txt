@@ -1,0 +1,12 @@
+I:\Java_Study\Study\C#\Console_IO\Console_IO\bin\Debug\netcoreapp3.1\Console_IO.exe
+I:\Java_Study\Study\C#\Console_IO\Console_IO\bin\Debug\netcoreapp3.1\Console_IO.deps.json
+I:\Java_Study\Study\C#\Console_IO\Console_IO\bin\Debug\netcoreapp3.1\Console_IO.runtimeconfig.json
+I:\Java_Study\Study\C#\Console_IO\Console_IO\bin\Debug\netcoreapp3.1\Console_IO.runtimeconfig.dev.json
+I:\Java_Study\Study\C#\Console_IO\Console_IO\bin\Debug\netcoreapp3.1\Console_IO.dll
+I:\Java_Study\Study\C#\Console_IO\Console_IO\bin\Debug\netcoreapp3.1\Console_IO.pdb
+I:\Java_Study\Study\C#\Console_IO\Console_IO\obj\Debug\netcoreapp3.1\Console_IO.AssemblyInfoInputs.cache
+I:\Java_Study\Study\C#\Console_IO\Console_IO\obj\Debug\netcoreapp3.1\Console_IO.AssemblyInfo.cs
+I:\Java_Study\Study\C#\Console_IO\Console_IO\obj\Debug\netcoreapp3.1\Console_IO.csproj.CoreCompileInputs.cache
+I:\Java_Study\Study\C#\Console_IO\Console_IO\obj\Debug\netcoreapp3.1\Console_IO.dll
+I:\Java_Study\Study\C#\Console_IO\Console_IO\obj\Debug\netcoreapp3.1\Console_IO.pdb
+I:\Java_Study\Study\C#\Console_IO\Console_IO\obj\Debug\netcoreapp3.1\Console_IO.genruntimeconfig.cache
