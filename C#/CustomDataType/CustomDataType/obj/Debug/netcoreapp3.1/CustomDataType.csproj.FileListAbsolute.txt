@@ -1,0 +1,12 @@
+I:\Java_Study\Study\C#\CustomDataType\CustomDataType\bin\Debug\netcoreapp3.1\CustomDataType.exe
+I:\Java_Study\Study\C#\CustomDataType\CustomDataType\bin\Debug\netcoreapp3.1\CustomDataType.deps.json
+I:\Java_Study\Study\C#\CustomDataType\CustomDataType\bin\Debug\netcoreapp3.1\CustomDataType.runtimeconfig.json
+I:\Java_Study\Study\C#\CustomDataType\CustomDataType\bin\Debug\netcoreapp3.1\CustomDataType.runtimeconfig.dev.json
+I:\Java_Study\Study\C#\CustomDataType\CustomDataType\bin\Debug\netcoreapp3.1\CustomDataType.dll
+I:\Java_Study\Study\C#\CustomDataType\CustomDataType\bin\Debug\netcoreapp3.1\CustomDataType.pdb
+I:\Java_Study\Study\C#\CustomDataType\CustomDataType\obj\Debug\netcoreapp3.1\CustomDataType.AssemblyInfoInputs.cache
+I:\Java_Study\Study\C#\CustomDataType\CustomDataType\obj\Debug\netcoreapp3.1\CustomDataType.AssemblyInfo.cs
+I:\Java_Study\Study\C#\CustomDataType\CustomDataType\obj\Debug\netcoreapp3.1\CustomDataType.csproj.CoreCompileInputs.cache
+I:\Java_Study\Study\C#\CustomDataType\CustomDataType\obj\Debug\netcoreapp3.1\CustomDataType.dll
+I:\Java_Study\Study\C#\CustomDataType\CustomDataType\obj\Debug\netcoreapp3.1\CustomDataType.pdb
+I:\Java_Study\Study\C#\CustomDataType\CustomDataType\obj\Debug\netcoreapp3.1\CustomDataType.genruntimeconfig.cache
