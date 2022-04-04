@@ -1,0 +1,12 @@
+I:\Java_Study\Study\C#\Delegate_Event\Delegate_Event\bin\Debug\netcoreapp3.1\Delegate_Event.exe
+I:\Java_Study\Study\C#\Delegate_Event\Delegate_Event\bin\Debug\netcoreapp3.1\Delegate_Event.deps.json
+I:\Java_Study\Study\C#\Delegate_Event\Delegate_Event\bin\Debug\netcoreapp3.1\Delegate_Event.runtimeconfig.json
+I:\Java_Study\Study\C#\Delegate_Event\Delegate_Event\bin\Debug\netcoreapp3.1\Delegate_Event.runtimeconfig.dev.json
+I:\Java_Study\Study\C#\Delegate_Event\Delegate_Event\bin\Debug\netcoreapp3.1\Delegate_Event.dll
+I:\Java_Study\Study\C#\Delegate_Event\Delegate_Event\bin\Debug\netcoreapp3.1\Delegate_Event.pdb
+I:\Java_Study\Study\C#\Delegate_Event\Delegate_Event\obj\Debug\netcoreapp3.1\Delegate_Event.AssemblyInfoInputs.cache
+I:\Java_Study\Study\C#\Delegate_Event\Delegate_Event\obj\Debug\netcoreapp3.1\Delegate_Event.AssemblyInfo.cs
+I:\Java_Study\Study\C#\Delegate_Event\Delegate_Event\obj\Debug\netcoreapp3.1\Delegate_Event.csproj.CoreCompileInputs.cache
+I:\Java_Study\Study\C#\Delegate_Event\Delegate_Event\obj\Debug\netcoreapp3.1\Delegate_Event.dll
+I:\Java_Study\Study\C#\Delegate_Event\Delegate_Event\obj\Debug\netcoreapp3.1\Delegate_Event.pdb
+I:\Java_Study\Study\C#\Delegate_Event\Delegate_Event\obj\Debug\netcoreapp3.1\Delegate_Event.genruntimeconfig.cache
