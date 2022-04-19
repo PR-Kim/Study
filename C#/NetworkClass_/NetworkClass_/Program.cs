@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
@@ -48,7 +49,33 @@ namespace NetworkClass_ {
 
             string EchoMsg = "Hi~~";
             byte[] sendMsg = Encoding.ASCII.GetBytes(EchoMsg);
+            
+            //쓰는 방법 1,.
             ns.Write(sendMsg, 0, sendMsg.Length);
+
+
+            //쓰는 방법 2.
+            using(StreamWriter sw = new StreamWriter(ns)) {
+                sw.AutoFlush = true;
+
+                sw.WriteLine("HI");
+                sw.WriteLine(3.1334f);
+                sw.WriteLine(false);
+
+            }
+
+            // 쓰는 방법 3.
+            using(BinaryWriter bw = new BinaryWriter(ns)) {
+                bool YesNo = false;
+                int Num = 13;
+                float Pi = 3.14f;
+                string Msg = "Message";
+
+                bw.Write(YesNo);
+                bw.Write(Num);
+                bw.Write(Pi);
+                bw.Write(Msg);
+            }
             ns.Close();
 
             tcpCli.Close();
@@ -74,8 +101,28 @@ namespace NetworkClass_ {
                 byte[] sendMsg2 = Encoding.ASCII.GetBytes(msg);
                 ns.Write(sendMsg2, 0, sendMsg2.Length);
 
+                
                 byte[] recieveByteMsg = new byte[100];
+                //읽는 방법 1.
                 ns.Read(recieveByteMsg, 0, 100);
+
+                //읽는 방법 2.
+                using(StreamReader sr = new StreamReader(ns)) {
+                    String str = sr.ReadLine();
+
+                    sr.ReadLine();
+
+                }
+
+                // 읽는 방법 3.
+                using(BinaryReader br = new BinaryReader(ns)) {
+                    bool Yesno = br.ReadBoolean();
+                    int num = br.ReadInt32();
+                    float pi = br.ReadSingle();
+                    string mmsg = br.ReadString();
+
+                }
+
                 string recieveM = Encoding.ASCII.GetString(recieveByteMsg);
                 Console.WriteLine(recieveM);
                 ns.Close();
