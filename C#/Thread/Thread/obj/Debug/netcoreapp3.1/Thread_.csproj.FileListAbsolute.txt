@@ -1,0 +1,12 @@
+I:\Java_Study\Study\C#\Thread\Thread\bin\Debug\netcoreapp3.1\Thread_.exe
+I:\Java_Study\Study\C#\Thread\Thread\bin\Debug\netcoreapp3.1\Thread_.deps.json
+I:\Java_Study\Study\C#\Thread\Thread\bin\Debug\netcoreapp3.1\Thread_.runtimeconfig.json
+I:\Java_Study\Study\C#\Thread\Thread\bin\Debug\netcoreapp3.1\Thread_.runtimeconfig.dev.json
+I:\Java_Study\Study\C#\Thread\Thread\bin\Debug\netcoreapp3.1\Thread_.dll
+I:\Java_Study\Study\C#\Thread\Thread\bin\Debug\netcoreapp3.1\Thread_.pdb
+I:\Java_Study\Study\C#\Thread\Thread\obj\Debug\netcoreapp3.1\Thread_.AssemblyInfoInputs.cache
+I:\Java_Study\Study\C#\Thread\Thread\obj\Debug\netcoreapp3.1\Thread_.AssemblyInfo.cs
+I:\Java_Study\Study\C#\Thread\Thread\obj\Debug\netcoreapp3.1\Thread_.csproj.CoreCompileInputs.cache
+I:\Java_Study\Study\C#\Thread\Thread\obj\Debug\netcoreapp3.1\Thread_.dll
+I:\Java_Study\Study\C#\Thread\Thread\obj\Debug\netcoreapp3.1\Thread_.pdb
+I:\Java_Study\Study\C#\Thread\Thread\obj\Debug\netcoreapp3.1\Thread_.genruntimeconfig.cache
