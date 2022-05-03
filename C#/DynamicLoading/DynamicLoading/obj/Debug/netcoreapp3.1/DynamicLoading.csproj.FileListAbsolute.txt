@@ -1,0 +1,12 @@
+I:\Java_Study\Study\C#\DynamicLoading\DynamicLoading\bin\Debug\netcoreapp3.1\DynamicLoading.exe
+I:\Java_Study\Study\C#\DynamicLoading\DynamicLoading\bin\Debug\netcoreapp3.1\DynamicLoading.deps.json
+I:\Java_Study\Study\C#\DynamicLoading\DynamicLoading\bin\Debug\netcoreapp3.1\DynamicLoading.runtimeconfig.json
+I:\Java_Study\Study\C#\DynamicLoading\DynamicLoading\bin\Debug\netcoreapp3.1\DynamicLoading.runtimeconfig.dev.json
+I:\Java_Study\Study\C#\DynamicLoading\DynamicLoading\bin\Debug\netcoreapp3.1\DynamicLoading.dll
+I:\Java_Study\Study\C#\DynamicLoading\DynamicLoading\bin\Debug\netcoreapp3.1\DynamicLoading.pdb
+I:\Java_Study\Study\C#\DynamicLoading\DynamicLoading\obj\Debug\netcoreapp3.1\DynamicLoading.AssemblyInfoInputs.cache
+I:\Java_Study\Study\C#\DynamicLoading\DynamicLoading\obj\Debug\netcoreapp3.1\DynamicLoading.AssemblyInfo.cs
+I:\Java_Study\Study\C#\DynamicLoading\DynamicLoading\obj\Debug\netcoreapp3.1\DynamicLoading.csproj.CoreCompileInputs.cache
+I:\Java_Study\Study\C#\DynamicLoading\DynamicLoading\obj\Debug\netcoreapp3.1\DynamicLoading.dll
+I:\Java_Study\Study\C#\DynamicLoading\DynamicLoading\obj\Debug\netcoreapp3.1\DynamicLoading.pdb
+I:\Java_Study\Study\C#\DynamicLoading\DynamicLoading\obj\Debug\netcoreapp3.1\DynamicLoading.genruntimeconfig.cache
