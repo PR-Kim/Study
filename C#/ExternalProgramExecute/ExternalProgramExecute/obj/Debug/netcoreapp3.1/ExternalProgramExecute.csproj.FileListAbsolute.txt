@@ -1,0 +1,12 @@
+I:\Java_Study\Study\C#\ExternalProgramExecute\ExternalProgramExecute\bin\Debug\netcoreapp3.1\ExternalProgramExecute.exe
+I:\Java_Study\Study\C#\ExternalProgramExecute\ExternalProgramExecute\bin\Debug\netcoreapp3.1\ExternalProgramExecute.deps.json
+I:\Java_Study\Study\C#\ExternalProgramExecute\ExternalProgramExecute\bin\Debug\netcoreapp3.1\ExternalProgramExecute.runtimeconfig.json
+I:\Java_Study\Study\C#\ExternalProgramExecute\ExternalProgramExecute\bin\Debug\netcoreapp3.1\ExternalProgramExecute.runtimeconfig.dev.json
+I:\Java_Study\Study\C#\ExternalProgramExecute\ExternalProgramExecute\bin\Debug\netcoreapp3.1\ExternalProgramExecute.dll
+I:\Java_Study\Study\C#\ExternalProgramExecute\ExternalProgramExecute\bin\Debug\netcoreapp3.1\ExternalProgramExecute.pdb
+I:\Java_Study\Study\C#\ExternalProgramExecute\ExternalProgramExecute\obj\Debug\netcoreapp3.1\ExternalProgramExecute.AssemblyInfoInputs.cache
+I:\Java_Study\Study\C#\ExternalProgramExecute\ExternalProgramExecute\obj\Debug\netcoreapp3.1\ExternalProgramExecute.AssemblyInfo.cs
+I:\Java_Study\Study\C#\ExternalProgramExecute\ExternalProgramExecute\obj\Debug\netcoreapp3.1\ExternalProgramExecute.csproj.CoreCompileInputs.cache
+I:\Java_Study\Study\C#\ExternalProgramExecute\ExternalProgramExecute\obj\Debug\netcoreapp3.1\ExternalProgramExecute.dll
+I:\Java_Study\Study\C#\ExternalProgramExecute\ExternalProgramExecute\obj\Debug\netcoreapp3.1\ExternalProgramExecute.pdb
+I:\Java_Study\Study\C#\ExternalProgramExecute\ExternalProgramExecute\obj\Debug\netcoreapp3.1\ExternalProgramExecute.genruntimeconfig.cache
