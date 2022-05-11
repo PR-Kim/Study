@@ -1,0 +1,13 @@
+I:\Java_Study\Study\C#\HttpServer_\HttpServer_\bin\Debug\netcoreapp3.1\HttpServer_.exe
+I:\Java_Study\Study\C#\HttpServer_\HttpServer_\bin\Debug\netcoreapp3.1\HttpServer_.deps.json
+I:\Java_Study\Study\C#\HttpServer_\HttpServer_\bin\Debug\netcoreapp3.1\HttpServer_.runtimeconfig.json
+I:\Java_Study\Study\C#\HttpServer_\HttpServer_\bin\Debug\netcoreapp3.1\HttpServer_.runtimeconfig.dev.json
+I:\Java_Study\Study\C#\HttpServer_\HttpServer_\bin\Debug\netcoreapp3.1\HttpServer_.dll
+I:\Java_Study\Study\C#\HttpServer_\HttpServer_\bin\Debug\netcoreapp3.1\HttpServer_.pdb
+I:\Java_Study\Study\C#\HttpServer_\HttpServer_\obj\Debug\netcoreapp3.1\HttpServer_.csprojAssemblyReference.cache
+I:\Java_Study\Study\C#\HttpServer_\HttpServer_\obj\Debug\netcoreapp3.1\HttpServer_.AssemblyInfoInputs.cache
+I:\Java_Study\Study\C#\HttpServer_\HttpServer_\obj\Debug\netcoreapp3.1\HttpServer_.AssemblyInfo.cs
+I:\Java_Study\Study\C#\HttpServer_\HttpServer_\obj\Debug\netcoreapp3.1\HttpServer_.csproj.CoreCompileInputs.cache
+I:\Java_Study\Study\C#\HttpServer_\HttpServer_\obj\Debug\netcoreapp3.1\HttpServer_.dll
+I:\Java_Study\Study\C#\HttpServer_\HttpServer_\obj\Debug\netcoreapp3.1\HttpServer_.pdb
+I:\Java_Study\Study\C#\HttpServer_\HttpServer_\obj\Debug\netcoreapp3.1\HttpServer_.genruntimeconfig.cache
