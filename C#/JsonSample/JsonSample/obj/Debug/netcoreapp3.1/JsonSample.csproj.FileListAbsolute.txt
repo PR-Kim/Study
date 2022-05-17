@@ -1,0 +1,15 @@
+I:\Java_Study\Study\C#\JsonSample\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.exe
+I:\Java_Study\Study\C#\JsonSample\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.deps.json
+I:\Java_Study\Study\C#\JsonSample\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.runtimeconfig.json
+I:\Java_Study\Study\C#\JsonSample\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.runtimeconfig.dev.json
+I:\Java_Study\Study\C#\JsonSample\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.dll
+I:\Java_Study\Study\C#\JsonSample\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.pdb
+I:\Java_Study\Study\C#\JsonSample\JsonSample\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+I:\Java_Study\Study\C#\JsonSample\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.csprojAssemblyReference.cache
+I:\Java_Study\Study\C#\JsonSample\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.AssemblyInfoInputs.cache
+I:\Java_Study\Study\C#\JsonSample\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.AssemblyInfo.cs
+I:\Java_Study\Study\C#\JsonSample\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.csproj.CoreCompileInputs.cache
+I:\Java_Study\Study\C#\JsonSample\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.csproj.CopyComplete
+I:\Java_Study\Study\C#\JsonSample\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.dll
+I:\Java_Study\Study\C#\JsonSample\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.pdb
+I:\Java_Study\Study\C#\JsonSample\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.genruntimeconfig.cache
