@@ -1,0 +1,13 @@
+I:\Java_Study\Study\SP_Lib\Req_2\Req_2\bin\Debug\netcoreapp3.1\Req_2.exe
+I:\Java_Study\Study\SP_Lib\Req_2\Req_2\bin\Debug\netcoreapp3.1\Req_2.deps.json
+I:\Java_Study\Study\SP_Lib\Req_2\Req_2\bin\Debug\netcoreapp3.1\Req_2.runtimeconfig.json
+I:\Java_Study\Study\SP_Lib\Req_2\Req_2\bin\Debug\netcoreapp3.1\Req_2.runtimeconfig.dev.json
+I:\Java_Study\Study\SP_Lib\Req_2\Req_2\bin\Debug\netcoreapp3.1\Req_2.dll
+I:\Java_Study\Study\SP_Lib\Req_2\Req_2\bin\Debug\netcoreapp3.1\Req_2.pdb
+I:\Java_Study\Study\SP_Lib\Req_2\Req_2\obj\Debug\netcoreapp3.1\Req_2.csprojAssemblyReference.cache
+I:\Java_Study\Study\SP_Lib\Req_2\Req_2\obj\Debug\netcoreapp3.1\Req_2.AssemblyInfoInputs.cache
+I:\Java_Study\Study\SP_Lib\Req_2\Req_2\obj\Debug\netcoreapp3.1\Req_2.AssemblyInfo.cs
+I:\Java_Study\Study\SP_Lib\Req_2\Req_2\obj\Debug\netcoreapp3.1\Req_2.csproj.CoreCompileInputs.cache
+I:\Java_Study\Study\SP_Lib\Req_2\Req_2\obj\Debug\netcoreapp3.1\Req_2.dll
+I:\Java_Study\Study\SP_Lib\Req_2\Req_2\obj\Debug\netcoreapp3.1\Req_2.pdb
+I:\Java_Study\Study\SP_Lib\Req_2\Req_2\obj\Debug\netcoreapp3.1\Req_2.genruntimeconfig.cache
