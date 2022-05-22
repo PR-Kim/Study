@@ -1,0 +1,15 @@
+I:\Java_Study\Study\SP_Lib\Req_3\Req_3\obj\Debug\netcoreapp3.1\Req_3.csprojAssemblyReference.cache
+I:\Java_Study\Study\SP_Lib\Req_3\Req_3\obj\Debug\netcoreapp3.1\Req_3.AssemblyInfoInputs.cache
+I:\Java_Study\Study\SP_Lib\Req_3\Req_3\obj\Debug\netcoreapp3.1\Req_3.AssemblyInfo.cs
+I:\Java_Study\Study\SP_Lib\Req_3\Req_3\obj\Debug\netcoreapp3.1\Req_3.csproj.CoreCompileInputs.cache
+I:\Java_Study\Study\SP_Lib\Req_3\Req_3\bin\Debug\netcoreapp3.1\Req_3.exe
+I:\Java_Study\Study\SP_Lib\Req_3\Req_3\bin\Debug\netcoreapp3.1\Req_3.deps.json
+I:\Java_Study\Study\SP_Lib\Req_3\Req_3\bin\Debug\netcoreapp3.1\Req_3.runtimeconfig.json
+I:\Java_Study\Study\SP_Lib\Req_3\Req_3\bin\Debug\netcoreapp3.1\Req_3.runtimeconfig.dev.json
+I:\Java_Study\Study\SP_Lib\Req_3\Req_3\bin\Debug\netcoreapp3.1\Req_3.dll
+I:\Java_Study\Study\SP_Lib\Req_3\Req_3\bin\Debug\netcoreapp3.1\Req_3.pdb
+I:\Java_Study\Study\SP_Lib\Req_3\Req_3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+I:\Java_Study\Study\SP_Lib\Req_3\Req_3\obj\Debug\netcoreapp3.1\Req_3.csproj.CopyComplete
+I:\Java_Study\Study\SP_Lib\Req_3\Req_3\obj\Debug\netcoreapp3.1\Req_3.dll
+I:\Java_Study\Study\SP_Lib\Req_3\Req_3\obj\Debug\netcoreapp3.1\Req_3.pdb
+I:\Java_Study\Study\SP_Lib\Req_3\Req_3\obj\Debug\netcoreapp3.1\Req_3.genruntimeconfig.cache
