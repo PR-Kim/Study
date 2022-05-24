@@ -6,7 +6,6 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json.Linq;
-
 namespace Req_3 {
 
     class Program {
@@ -19,11 +18,11 @@ namespace Req_3 {
     class HttpServer {
         HttpListener Listener;
 
-        public static Dictionary<string, List<string>> dictQue = new Dictionary<string, List<string>>();
+        public static Dictionary<string, List<Message>> dictQue = new Dictionary<string, List<Message>>();
         public static Dictionary<string, int> dictSize = new Dictionary<string, int>();
 
         public static Dictionary<int, string> sendedQueName = new Dictionary<int, string>();
-        public static Dictionary<int, string> sendedMsg = new Dictionary<int, string>();
+        public static Dictionary<int, Message> sendedMsg = new Dictionary<int, Message>();
         public static int MsgID = 0;
         public HttpServer() {
             Listener = new HttpListener();
@@ -108,18 +107,21 @@ namespace Req_3 {
 
             JObject res = new JObject();
             if (HttpServer.dictQue[queName].Count > 0) {
-                int currId = HttpServer.MsgID;
+                // int currId = HttpServer.MsgID;
                 HttpServer.MsgID += 1;
-                String msg = HttpServer.dictQue[queName][0];
-                HttpServer.dictQue[queName].RemoveAt(0);
-                HttpServer.sendedQueName.Add(currId, queName);
-                HttpServer.sendedMsg.Add(currId, msg);
+                String msg = HttpServer.dictQue[queName][0].message;
+                HttpServer.sendedQueName.Add(HttpServer.dictQue[queName][0].id, queName);
+                HttpServer.sendedMsg.Add(HttpServer.dictQue[queName][0].id, HttpServer.dictQue[queName][0]);
                 res.Add("Result", "Ok");
-                res.Add("MessageID", currId);
+                res.Add("MessageID", HttpServer.dictQue[queName][0].id);
                 res.Add("Message", msg);
-                Console.WriteLine("Result : Ok / Message ID : " + currId + " / Queue Name : " + queName + "/ Message : " + msg);
+                Console.WriteLine("Result : Ok / Message ID : " + HttpServer.dictQue[queName][0].id + " / Queue Name : " + queName + "/ Message : " + msg);
+                HttpServer.dictQue[queName].RemoveAt(0);
                 if (HttpServer.dictQue[queName].Count > 0)
                     Console.WriteLine("Receive ::::: Queue " + queName + "'s first content : " + HttpServer.dictQue[queName][0]);
+
+
+
             }
             else {
                 res.Add("Result", "No Message");
@@ -185,7 +187,7 @@ namespace Req_3 {
                 res.Add("Result", "Queue Exist");
             }
             else {
-                HttpServer.dictQue.Add(queName, new List<string>());
+                HttpServer.dictQue.Add(queName, new List<Message>());
                 HttpServer.dictSize.Add(queName, int.Parse(json["QueueSize"].ToString()));
                 res.Add("Result", "Ok");
             }
@@ -212,7 +214,7 @@ namespace Req_3 {
                 res.Add("Result", "Queue Full");
             }
             else {
-                HttpServer.dictQue[queName].Add(json["Message"].ToString());
+                HttpServer.dictQue[queName].Add(new Message(json["Message"].ToString(), queName));
                 res.Add("Result", "Ok");
                 Console.WriteLine("SendMsg ::::: Queue " + queName + "'s first content : " + HttpServer.dictQue[queName][0]);
             }
@@ -233,7 +235,8 @@ namespace Req_3 {
 
             JObject res = new JObject();
 
-            Console.WriteLine("ACK ::::: Queue " + param[0] + "'s first content : " + HttpServer.dictQue[param[0]][0]);
+            if (HttpServer.dictQue[param[0]].Count > 0)
+                Console.WriteLine("ACK ::::: Queue " + param[0] + "'s first content : " + HttpServer.dictQue[param[0]][0]);
 
             res.Add("Result", "Ok");
 
@@ -251,7 +254,8 @@ namespace Req_3 {
             string[] param = queAndMsgId.Split('/');
 
             HttpServer.dictQue[param[0]].Insert(0, HttpServer.sendedMsg[int.Parse(param[1])]);
-            HttpServer.dictQue[param[0]].Sort((string b, string a) => { return int.Parse(a.Substring(a.Length - 1)).CompareTo(int.Parse(b.Substring(b.Length - 1))); });
+            //HttpServer.dictQue[param[0]].Sort((string b, string a) => { return int.Parse(a.Substring(a.Length-1)).CompareTo(int.Parse(b.Substring(b.Length - 1))); });
+            HttpServer.dictQue[param[0]].Sort();
 
             HttpServer.sendedMsg.Remove(int.Parse(param[1]));
             HttpServer.sendedQueName.Remove(int.Parse(param[1]));
@@ -268,5 +272,24 @@ namespace Req_3 {
             ctx.Response.Close();
         }
         // Add POST Function
+    }
+    class Message : IComparable<Message> {
+        public int id;
+        public string message;
+        public string queName;
+        static int idx = 0;
+        public Message(string message, string queName) {
+            this.message = message;
+            this.queName = queName;
+            this.id = idx++;
+        }
+
+        public int CompareTo(Message other) {
+            if (this.id > other.id)
+                return 1;
+            else if (this.id < other.id)
+                return -1;
+            return 0;
+        }
     }
 }
